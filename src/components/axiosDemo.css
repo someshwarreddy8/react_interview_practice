@@ -1,0 +1,8 @@
+#prodcard {
+    transition: 0.3s ease, transform 0.3s ease;
+}
+
+#prodcard:hover {
+    /* background-color: #0056b3; */
+    transform: scale(1.05);
+}
